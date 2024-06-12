@@ -1,0 +1,90 @@
+{
+  "oranges": {
+    "mandarin": {
+      "clementine": null,
+      "tangerine": "cheap & juicy!",
+      "satsuma": {
+        "origin": "Japan",
+        "flavor": "sweet",
+        "variety1": "owari",
+        "variety2": "miho",
+        "variety3": "miyagawa"
+      }
+    },
+    "navel": {
+      "cara cara": {
+        "color": "pink",
+        "flavor": "sweet",
+        "season": "winter"
+      },
+      "lane late": {
+        "origin": "Australia",
+        "flavor": "sweet",
+        "season": "late winter"
+      }
+    }
+  },
+  "apples": {
+    "gala": {
+      "origin": "New Zealand",
+      "season": "fall",
+      "characteristics": {
+        "color": "reddish-yellow",
+        "texture": "crisp"
+      }
+    },
+    "pink lady": {
+      "origin": "Australia",
+      "season": "late fall",
+      "characteristics": {
+        "color": "pink",
+        "texture": "firm"
+      }
+    },
+    "granny smith": {
+      "origin": "Australia",
+      "season": "year-round",
+      "characteristics": {
+        "color": "green",
+        "flavor": "tart",
+        "uses1": "baking",
+        "uses2": "salads",
+        "uses3": "sauces"
+      }
+    }
+  },
+  "berries": {
+    "strawberry": {
+      "garden strawberry": {
+        "season": "spring to early summer"
+      },
+      "wild strawberry": {
+        "season": "spring to early summer"
+      }
+    },
+    "blueberry": {
+      "highbush": {
+        "origin": "North America",
+        "season": "mid to late summer"
+      },
+      "lowbush": {
+        "origin": "North America",
+        "season": "late summer"
+      }
+    },
+    "raspberry": {
+      "red": {
+        "season": "summer",
+        "uses1": "eating fresh",
+        "uses2": "jams",
+        "uses3": "desserts"
+      },
+      "black": {
+        "season": "summer",
+        "uses1": "eating fresh",
+        "uses2": "jams",
+        "uses3": "baking"
+      }
+    }
+  }
+}
